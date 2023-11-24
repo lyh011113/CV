@@ -50,8 +50,9 @@ I currently reside in Suwon. Interestingly, I've completed my education from ele
 
 # Achievements
 
-**Won the Grand Prize at Seoul National University Graduate School of Datascience Ambient AI Competition (2023.08)**
+*Won the Grand Prize at Seoul National University GSDS Ambient AI Competition (2023.08)*
 >https://www.youtube.com/watch?v=tTR6bGrUP0c (Supervised by Professor Hyungshin Kim)
+
 **More to be added.**
 
 # Interests
