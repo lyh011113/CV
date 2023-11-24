@@ -15,17 +15,8 @@ Hello! I'm Lee Yohan. I'm a university student majoring in Computer Science.
 I currently reside in Suwon. Interestingly, I've completed my education from elementary to high school in Suwon as well. Surprisingly, I continue my studies even in university here. Quite astonishing, isn't it?
 </p>
 
-
-
-<div align="center">
-
-<img src="./images/backGround.jpg" width= "500px" height= "400px" title= "image">
-
-</div>
-
 * Hobbies: Watching movies, Listening to music, Coding, Reading books
 + Talent: Maybe math and programming...
-
 
 
 # Skills
