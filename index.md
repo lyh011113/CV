@@ -6,9 +6,17 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+Hello! I'm Lee Yohan. I'm a university student majoring in Computer Science.
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+I currently reside in Suwon. Interestingly, I've completed my education from elementary to high school in Suwon as well. Surprisingly, I continue my studies even in university here. Quite astonishing, isn't it?
+</p>
+
+<p>
+My areas of interest include security, generative artificial intelligence, and Ambient AI. As an undergraduate, I'm striving to explore various fields.
+</p>
+
+<p>
+I'm presently studying Software Engineering at Sungkyunkwan University. If you'd like to get in touch, please use the email provided below! Thank you!
 </p>
