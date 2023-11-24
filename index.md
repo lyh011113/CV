@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
+  src: /assets/img/KakaoTalk_20231124_152250478.jpg
   alt: website picture
 ---
 
