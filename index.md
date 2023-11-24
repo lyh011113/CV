@@ -27,7 +27,9 @@ I currently reside in Suwon. Interestingly, I've completed my education from ele
 `level 4: Expert level`
 
 **LV.1** : Ruby, Firebase, Flask, HTML, CSS, Docker
+
 **LV.2** : C++, Java, Python ,Raspberry Pi, OpenCV, Git
+
 **LV.3** : C, Tensorflow, Pytorch, Linux
 
 #Languages
