@@ -4,11 +4,12 @@ profile_picture:
   src: /assets/img/profile-pic.jpg
   alt: website picture
 ---
-# Yohan's HomePage
 
 # Introduction
 
+<p>
 ### Hello! I'm Lee Yohan. I'm a university student majoring in Computer Science.
+</p>
 
 <p>
 I currently reside in Suwon. Interestingly, I've completed my education from elementary to high school in Suwon as well. Surprisingly, I continue my studies even in university here. Quite astonishing, isn't it?
@@ -41,7 +42,7 @@ I currently reside in Suwon. Interestingly, I've completed my education from ele
 
 # Education
 
-**Currently studying at Sungkyunkwan University, majoring in Software Engineering**
+*Currently studying at Sungkyunkwan University, majoring in Software Engineering*
 
 
 + Currently in the 6th semester, taking courses such as `Computer Architecture`, `Operating Systems`, `Computer Networks` and `Multimedia Engineering`.
