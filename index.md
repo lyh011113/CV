@@ -30,6 +30,11 @@ I currently reside in Suwon. Interestingly, I've completed my education from ele
 **LV.2** : C++, Java, Python ,Raspberry Pi, OpenCV, Git
 **LV.3** : C, Tensorflow, Pytorch, Linux
 
+#Languages
+
+**Korean** : Native
+**English** : Intermediate
+**Japanese** : Basic
 
 # Education
 
@@ -37,13 +42,17 @@ I currently reside in Suwon. Interestingly, I've completed my education from ele
 
 
 + Currently in the 6th semester, taking courses such as `Computer Architecture`, `Operating Systems`, `Computer Networks` and `Multimedia Engineering`.
+
+
 + In previous semesters, I have studied `Introduction to Databases` and `Introduction to Data Structures`
+
+
 + During this summer break, I will be conducting undergraduate research on `Ambient AI through Quantization` and `Generative AI through Diffusion`
 
 # Achievements
 
 **Won the Grand Prize at SNU GSDS Ambient AI Competition (2023.08)**
->https://www.youtube.com/watch?v=tTR6bGrUP0c 
+>[youtube](https://www.youtube.com/watch?v=tTR6bGrUP0c)
 >(Supervised by Professor Hyungshin Kim)
 
 **More to be added.**
