@@ -1,14 +1,14 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
+  src: ./assets/img/profile-pic.jpg
   alt: website picture
 ---
 
-# Introduction
+## Greeting!
 
 <p>
-### Hello! I'm Lee Yohan. I'm a university student majoring in Computer Science.
+Hello! I'm Lee Yohan. I'm a university student majoring in Computer Science.
 </p>
 
 <p>
@@ -35,14 +35,14 @@ I currently reside in Suwon. Interestingly, I've completed my education from ele
 `level 3: Advanced level`
 `level 4: Expert level`
 
-> LV1 : Ruby, Firebase, Flask, HTML, CSS, Docker
-> LV2 : C++, Java, Python ,Raspberry Pi, OpenCV, Git
-> LV3 : C, Tensorflow, Pytorch, Linux
+**LV.1** : Ruby, Firebase, Flask, HTML, CSS, Docker
+**LV.2** : C++, Java, Python ,Raspberry Pi, OpenCV, Git
+**LV.3** : C, Tensorflow, Pytorch, Linux
 
 
 # Education
 
-*Currently studying at Sungkyunkwan University, majoring in Software Engineering*
+**Currently studying at Sungkyunkwan University, majoring in Software Engineering**
 
 
 + Currently in the 6th semester, taking courses such as `Computer Architecture`, `Operating Systems`, `Computer Networks` and `Multimedia Engineering`.
@@ -51,8 +51,9 @@ I currently reside in Suwon. Interestingly, I've completed my education from ele
 
 # Achievements
 
-*Won the Grand Prize at Seoul National University GSDS Ambient AI Competition (2023.08)*
->https://www.youtube.com/watch?v=tTR6bGrUP0c (Supervised by Professor Hyungshin Kim)
+**Won the Grand Prize at SNU GSDS Ambient AI Competition (2023.08)**
+>https://www.youtube.com/watch?v=tTR6bGrUP0c 
+>(Supervised by Professor Hyungshin Kim)
 
 **More to be added.**
 
@@ -62,4 +63,3 @@ I currently reside in Suwon. Interestingly, I've completed my education from ele
 + Security
 + Generative Artificial Intelligence
 + Ambient AI
-
