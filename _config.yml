@@ -22,21 +22,14 @@ footer:
     - name: Email
       value: john1111369@g.skku.edu
       link: mailto:john1111369@g.skku.edu
-    - name: KakaoID
-      value: john11113
-      link: "#"
   follow:
     - name: Instagram
       link: https://www.instagram.com/yh._.lee01/
       username: "@yh._.lee01"
-    - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
     - name: LinkedIn
       link: http://linkedin.com/in/yohan-lee-0555a3208/
     - name: GitHub
       link: http://github.com/lyh011113
-    - name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
     - name: RSS
       link: /feed.xml
 
