@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
+  src: assets\img\profile-pic.jpg
   alt: website picture
 ---
 
@@ -20,3 +20,5 @@ My areas of interest include security, generative artificial intelligence, and A
 <p>
 I'm presently studying Software Engineering at Sungkyunkwan University. If you'd like to get in touch, please use the email provided below! Thank you!
 </p>
+
+
