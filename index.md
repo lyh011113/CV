@@ -55,7 +55,7 @@ Anyway, I'm glad to meet you!
 + In previous semesters, I have studied `Introduction to Databases` and `Introduction to Data Structures`
 
 
-+ During this summer break, I will be conducting undergraduate research on `Ambient AI through Quantization` and `Generative AI through Diffusion`
++ During this winter break, I will be conducting undergraduate research on `Ambient AI through Quantization` and `Generative AI through Diffusion`
 
 # Achievements
 
