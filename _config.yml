@@ -10,11 +10,11 @@ og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
 
 header:
-  pages:
-    - name: Home
-      slug: /
-    - name: Work
-    - name: Blog
+  # pages:
+  #   - name: Home
+  #     slug: /
+  #   - name: Work
+  #   - name: Blog
 
 footer:
   show_powered_by: true
