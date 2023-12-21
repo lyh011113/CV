@@ -63,6 +63,10 @@ Anyway, I'm glad to meet you!
 >[Presentation](https://www.youtube.com/watch?v=tTR6bGrUP0c)
 >(Supervised by Professor Hyungshin Kim)
 
+**GSDS AIoT Lab Internship (2023.12~)**
+
+**Google exploreCSR 2023 (2023.12~)**
+
 **More to be added.**
 
 # Interests
